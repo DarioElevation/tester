@@ -6,7 +6,7 @@
 <head>
 <meta charset="utf-8">
 <title>Orixgen</title>
-<meta name="description" content="OriXgen es una empresa internacional nacida en México por fundadores con más de 40 años de experiencia en la venta directa siendo su principal esencia el autoempleo y ofreciendo productos innovadores utilizando la biotecnología como su principal fuente.">
+<meta name="description" content="Este es un repositorio de prueba">
 <link rel="canonical" href="http://www.orixgen.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:locale" content="es_ES" />
