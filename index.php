@@ -207,6 +207,7 @@ ga('send', 'pageview');
     <div id="contenido">
     	<div class="slider-wrapper" style="margin:0 auto;">
             <div id="slider" class="nivoSlider" style="display:none;">
+            	Esto es una Prueba de un cambio.
                <img id="elevslider0" src="imagenes/set-revitalizante-orixgen.jpg" border="0">
                <a href="set-revitalizante.php" title="Con&oacute;celo">
                		<img id="elevslider4" src="imagenes/set-revitalizante.png" border="0">
