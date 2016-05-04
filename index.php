@@ -6,7 +6,7 @@
 <head>
 <meta charset="utf-8">
 <title>Orixgen</title>
-<meta name="description" content="Este es un repositorio de prueba 04052016">
+<meta name="description" content="Este es un repositorio de prueba 04052016 11:11:00">
 <link rel="canonical" href="http://www.orixgen.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:locale" content="es_ES" />
